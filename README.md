@@ -22,7 +22,7 @@ The results is reported as the accuracy of each classifier, using the following 
 
 ## About Dataset
 
-[Documentation](https://linktodocumentation)
+(https://linktodocumentation)
 
 Historical data for Loan applications. Has customers whose loan are already paid off or defaulted.
 
